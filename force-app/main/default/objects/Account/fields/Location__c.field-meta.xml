@@ -7,5 +7,5 @@
     <required>false</required>
     <scale>7</scale>
     <trackFeedHistory>false</trackFeedHistory>
-    <type>Location</type>
+    <type>Locations</type>
 </CustomField>
